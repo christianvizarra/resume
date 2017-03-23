@@ -135,7 +135,7 @@
 			"technologies": "PHP, MySql, Silex, AngularJs, AWS"
 		}, {
 			"name": "PowerTeam",
-			"description": "Sports Team Management.<br/> Develop the BackeEnd using ParseJS Framework. Designed and Developed the UI/UX of web application version of the application. Implemented Responsive design.",
+			"description": "Sports Team Management.<br/> Develop the BackeEnd using ParseJS Framework. Designed and Developed the UI/UX of web application version of the application using AngularJs. Implemented Responsive design.",
 			"role": "Lead FrontEnd and Backend Developer",
 			"startDate": "2015",
 			"endDate": "Present",
