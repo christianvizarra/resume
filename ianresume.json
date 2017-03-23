@@ -109,15 +109,6 @@
 			"name": "Digital Ocean",
 			"number_of_years": 2
 		}]
-	}, {
-		"category": "Integrated Development Environment",
-		"technologies": [{
-			"name": "PHPstorm",
-			"number_of_years": 3
-		}, {
-			"name": "Webstorm",
-			"number_of_years": 3
-		}]
 	}],
 	"work": [{
 		"company": "Flight Digital Media",
