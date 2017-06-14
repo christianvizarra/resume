@@ -21,28 +21,14 @@
 		}, {
 			"name": "Javascript",
 			"number_of_years": 5
-		}, {
-			"name": "Nodejs",
-			"number_of_years": 3
 		}]
 	}, {
 		"category": "Web Technologies",
 		"technologies": [{
 			"name": "HTML5",
 			"number_of_years": 4
-		}, {
-			"name": "Jquery",
-			"number_of_years": 5
-		}, {
-			"name": "CSS3",
-			"number_of_years": 5
-		}, {
-			"name": "Bootstrap",
-			"number_of_years": 4
-		}, {
-			"name": "Material Design",
-			"number_of_years": 2
-		}, {
+		},
+		{
 			"name": "AngularJs 1",
 			"number_of_years": 2
 		}]
@@ -51,18 +37,6 @@
 		"technologies": [{
 			"name": "Laravel",
 			"number_of_years": 4
-		}, {
-			"name": "Lumen",
-			"number_of_years": 3
-		}, {
-			"name": "Silex",
-			"number_of_years": 2
-		}, {
-			"name": "Codeigniter",
-			"number_of_years": 4
-		}, {
-			"name": "Parse JS",
-			"number_of_years": 2
 		}]
 	}, {
 		"category": "Databases",
@@ -72,42 +46,6 @@
 		}, {
 			"name": "Postgresql",
 			"number_of_years": 1
-		}]
-	}, {
-		"category": "Content Management System",
-		"technologies": [{
-			"name": "Wordpress",
-			"number_of_years": 2
-		}]
-	}, {
-		"category": "Version Control",
-		"technologies": [{
-			"name": "Git",
-			"number_of_years": 4
-		}]
-	}, {
-		"category": "Operating System",
-		"technologies": [{
-			"name": "Linux",
-			"number_of_years": 4
-		}, {
-			"name": "Mac",
-			"number_of_years": 4
-		}]
-	}, {
-		"category": "Web Services",
-		"technologies": [{
-			"name": "Amazon Web Services",
-			"number_of_years": 1
-		}, {
-			"name": "Microsoft Azure",
-			"number_of_years": 1
-		}, {
-			"name": "Heroku",
-			"number_of_years": 1
-		}, {
-			"name": "Digital Ocean",
-			"number_of_years": 2
 		}]
 	}],
 	"work": [{
@@ -123,6 +61,7 @@
 			"role": "Developer",
 			"startDate": "2015",
 			"endDate": "Present",
+			"months": "(30 months)",
 			"technologies": "PHP, MySql, Silex, AngularJs, AWS"
 		}, {
 			"name": "PowerTeam",
@@ -130,6 +69,7 @@
 			"role": "Lead FrontEnd and Backend Developer",
 			"startDate": "2015",
 			"endDate": "Present",
+			"months": "(24 months)",
 			"technologies": "ParseJS, CSS, HTML, Javascript"
 		}, {
 			"name": "Zukii",
@@ -137,6 +77,7 @@
 			"role": "Lead API Developer",
 			"startDate": "2016",
 			"endDate": "Present",
+			"months": "(10 months)",
 			"technologies": "PHP, MySql, Laravel, AWS, Docker, Continuous Integration, Continuous Delivery"
 		}, {
 			"name": "Coca-Cola Toolkit",
@@ -144,6 +85,7 @@
 			"role": "Lead FrontEnd and BackEnd Developer",
 			"startDate": "2016",
 			"endDate": "Present",
+			"months": "(10 months)",
 			"technologies": "PHP, MySql, Laravel, AWS, Javascript"
 		}]
 	}],
